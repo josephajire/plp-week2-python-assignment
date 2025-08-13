@@ -1,4 +1,6 @@
 # PLP Week2- Python Programming
+I am Joseph Ajireloja.
+
 This repository contains my answers to PLP Week 2 Python Programming Assignment.
 
 # Assignment Questions
